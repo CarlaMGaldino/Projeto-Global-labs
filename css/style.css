@@ -1,0 +1,53 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: #1C2833;
+}
+
+p {
+  font-size: 16px;
+}
+
+.navbar {
+  background-color: #008000;
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #F28B06;
+}
+
+.quem-somos {
+  background-color: #F4F6F7;
+}
+
+section#quem__somos p {
+  font-size: 30px;
+}
+
+.margin {
+  padding: 50px 0;
+}
+
+#parceiros {
+  background-color: #15aaec;
+}
+
+section#parceiros h3 {
+  color: #fff;
+}
+
+section#servicos {
+  background-color: #F4F6F7;
+}
+
+footer {
+  background-color: #F28B06;
+  color: #fff;
+  padding: 10px;
+
+}
